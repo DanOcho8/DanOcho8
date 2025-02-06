@@ -14,7 +14,7 @@ Here are some of the notable projects I've worked on:
 
 - **DreamBridge**: A platform that connects dreamers with mentors to help achieve their goals. [GitHub Repository](https://github.com/DanOchoa8/DreamBridge)
 
-- **Adaptive Blackjack AI**: An AI agent that learns and adapts to various blackjack strategies using reinforcement learning. [GitHub Repository](https://github.com/DanOchoa8/Adaptive-Blackjack-AI)
+- **Adaptive Blackjack AI**: An AI agent that learns and adapts to various blackjack strategies using reinforcement learning. [GitHub Repository](https://github.com/Fanaticaj/CPSC-481))
 
 - **Personal Portfolio Website**: A responsive website showcasing my projects, skills, and blog posts. [GitHub Repository](https://github.com/DanOchoa8/Portfolio-Website)
 
