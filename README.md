@@ -35,7 +35,7 @@ Here are some of the notable projects I've worked on:
 
 ### Skills
 
-[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,python,java,html,css,git,github,postgres,vercel,react,git,azure)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,react,nodejs,nextjs,python,java,html,css,github,postgres,vercel,react,git,azure)](https://skillicons.dev)
 
 ### GitHub Statistics
 
