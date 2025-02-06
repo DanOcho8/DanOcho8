@@ -28,7 +28,7 @@ Here are some of the notable projects I've worked on:
 
 - **ETL Engineer (Freelance) at Skyduster Beer** (January 2025 - Present)
   - Optimized data workflows for seamless integration of HubSpot and EOStar data into PostgreSQL.
-  - Designed and maintained ETL pipelines using Airbyte and Azure to ensure data accuracy, consistency, and availability for Power BI reporting.
+  - Designed and maintained ETL pipelines using Vercel Serverless Functions and Fly.io to ensure data accuracy, consistency, and availability for Power BI reporting.
   - Automated reconciliation processes with unique identifiers, improving reporting efficiency.
   - Standardized property naming conventions to enhance data usability and dashboard querying.
   - Supported the creation of high-priority reports, such as daily and monthly sales summaries.
